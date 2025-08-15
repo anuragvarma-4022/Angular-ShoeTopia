@@ -1,0 +1,5 @@
+<div class="ekart--search--product">
+    <input class="ekart-search-product-input" [(ngModel)]="seacrhText" type="text" placeholder="Search for products, brands and more">
+    <button [ngClass]="{'btn': true, 'btn-search': seacrhText, 'btn-search-disabled': !seacrhText}">Search</button>
+</div>
+<div class="ekart-search-result-for"><p *ngIf="seacrhText != ''"><strong>Search result for:</strong> {{seacrhText}}</p></div>

@@ -1,0 +1,19 @@
+/* Align filter with product list */
+.filter-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px auto;
+    padding: 0px 17vh;
+    width: 100%;
+    box-sizing: border-box;
+}
+.filter-options {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+input[type=radio]{
+    margin-left:10px;
+    margin-right:5px;
+}

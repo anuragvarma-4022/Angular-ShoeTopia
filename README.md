@@ -1,6 +1,10 @@
-# AngularShoeTopia
+# Angular Shoe-Topia (Public version)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.16.
+A full scale e-commerce app developed in [Angular CLI](https://github.com/angular/angular-cli) version 16.2.16. The public version includes limited functionality. The private version includes full app. Please contact me via Github to request access to the private version. Commercial enquiries welcome.
+
+
+<img width="1844" height="1079" alt="image" src="https://github.com/user-attachments/assets/683113f0-24b8-4c2c-b392-98d583ba5c72" />
+
 
 ## Development server
 
